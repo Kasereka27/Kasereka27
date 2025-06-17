@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Sabin Kasereka (aka Kasereka27)
+# 👋 Salut, moi c'est Sabin Kasereka (Kasereka27)
 
 > 🎓 Étudiant en Informatique à l’Université Protestante au Congo (U.P.C)  
 > 💻 Développeur web passionné | Spécialisé en PHP & Ingénierie Logicielle  
