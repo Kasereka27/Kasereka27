@@ -48,9 +48,9 @@ J’aime apprendre en autodidacte, relever des défis techniques, et construire 
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [linkedin.com/in/KaserekaSabin](#) _(à compléter si tu en as un)_
-- 📧 Email : tonadresse@email.com
-- 🌍 Site personnel : https://kasereka.me _(si tu en as un, sinon on l'enlèvera)_
+- 💼 LinkedIn : https://www.linkedin.com/in/sabin-kasereka-595ab42b3 
+- 📧 Email : salambungusabin@gmail.com
+- 🌍 Site personnel : en cours de conception
 
 ---
 
